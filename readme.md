@@ -1,4 +1,4 @@
-# IPL Win Predictor
+# IPL Win Predictor Machine
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 [![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Model-blue)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/ipl-win-predictor.git
+   git clone https://github.com/Themaazaamir46/IPL-Win_Predictor-Machine.git
    ```
 
 2. Navigate to the project directory:
